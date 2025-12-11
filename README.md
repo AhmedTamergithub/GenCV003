@@ -1,6 +1,9 @@
 # CV Generation Project
 
-This project contains implementations of DDPM (Denoising Diffusion Probabilistic Models) and VAE (Variational Autoencoder) for generative modeling, along with quantitative analysis.
+This project contains implementations of DDPM (Denoising Diffusion Probabilistic Models) and VAE (Variational Autoencoder) for generative modeling, along with quantitative  and qualitative analysis.
+
+## Project Report
+For a detailed report of this project, please view: [GenCV003_Report.pdf](GenCV003_Report.pdf)
 
 ## Running the Models
 
